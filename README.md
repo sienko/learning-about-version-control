@@ -2,7 +2,7 @@
 
 ## Recipe for a merge conflict
 
-### Solving merge conflicts is soooooo hard!
+### Solving merge conflicts takes conscious effort, but I can do it!
 
 1. Amend README directly on github.com and put the line “Solving merge conflicts is easy!”
 2. When you clone the repo, edit README and write “Solving merge conflicts is soooooo hard!”
